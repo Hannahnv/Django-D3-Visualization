@@ -35,6 +35,10 @@ The system is built around the following data model:
 * Explore different visualization options available in the application
 
 ## 3. Deploy Django to Production using PythonAnywhere
+You can see a working demo at [here](https://hangnv.pythonanywhere.com/)
+
+![image](https://github.com/user-attachments/assets/860d498e-cc2c-4aee-82ac-57d5460c6624)
+
 
 ## 4. Acknowledgments
 * Django community for the amazing framework
